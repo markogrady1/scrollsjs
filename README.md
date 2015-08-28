@@ -6,7 +6,7 @@
  Between `<head>` tags.
 ```html
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-<script src="scolls.js"></script>
+<script src="scrolls.js"></script>
 ```
 
 Before ending `</body>` tag.
