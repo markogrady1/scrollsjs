@@ -1,5 +1,5 @@
 # scrollsJS
-####ScrollsJS is a jquery plugin that enables you to have a built in scroller that will take you smoothly to the top of the page.
+####ScrollsJS is a jquery plugin that enables you to have a built-in scroller that will take you smoothly to the top of the page.
 
 **Implementation**
 -
