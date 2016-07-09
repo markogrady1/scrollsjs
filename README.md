@@ -16,4 +16,20 @@ Before ending `</body>` tag.
 </script>
 ```
 
+If you wish to change the color of the scroller, simply create an object called `conf` and place it anywhere above the 
+`scroller.init()` code. Like so.
+
+```javascript
+<script>
+var conf = {
+	bgColor:"#4F8EF2",
+	hoverColor:"#4EB441"
+};
+
+  scroller.init();
+</script>
+```
+
+You may change background color, hovercolor or both.
+
 ##Enjoy!!

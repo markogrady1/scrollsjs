@@ -27,7 +27,7 @@ var scroller = {
 		    mozTransition: "background 0.4s",
 		    msTransition: "background 0.4s",
 		    transition: "background 0.4s",
-		    padding:"15px 10px", 
+		    padding:"15px 10px",
 		    textAlign: "center",
     		boxSizing: "content-box"
 
@@ -109,9 +109,9 @@ this.scrolls();
 		});
 
 	}
-	
-};	
+
+};
 $(function(){
- scroller.scrolls(); 
+ scroller.scrolls();
 
 });
