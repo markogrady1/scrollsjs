@@ -30,6 +30,6 @@ If you wish to change the color of the scroller, simply create an object called 
 </script>
 ```
 
-You may change background color, hovercolor or both.
+You may change background color, hover color or both.
 
 ##Enjoy!!
