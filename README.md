@@ -21,10 +21,10 @@ If you wish to change the color of the scroller, simply create an object called 
 
 ```javascript
 <script>
-var conf = {
+  var conf = {
 	bgColor:"#4F8EF2",
 	hoverColor:"#4EB441"
-};
+  };
 
   scroller.init();
 </script>
