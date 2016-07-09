@@ -6,7 +6,7 @@ var scroller = {
 		hoverColor: "#DB7661",
 		bgColor: "#1f2b31"
 	},
-	init: function(color){
+	init: function(){
 		var anchor = document.createElement("a");
 		var scrollTopButton = ".scroll-top-button";
 		var spn = document.createElement("img");
@@ -116,8 +116,6 @@ var scroller = {
 	}
 
 };
-
-var config = scroller.config;
 
 $(function(){
 	scroller.scrolls();
