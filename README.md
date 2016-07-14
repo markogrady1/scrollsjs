@@ -22,14 +22,15 @@ If you wish to change the color of the scroller, simply create an object called 
 ```javascript
 <script>
   var conf = {
-	bgColor:"#4F8EF2",
-	hoverColor:"#4EB441"
+	bgColor: "#4F8EF2",
+	hoverColor: "#4EB441",
+	opacity: 0.5
   };
 
   scroller.init();
 </script>
 ```
 
-You may change background color, hover color or both.
+You may change either the background color, hover color or opacity of the scroll button.
 
 ##Enjoy!!
