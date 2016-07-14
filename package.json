@@ -1,0 +1,19 @@
+{
+  "name": "scrollsjs",
+  "description": "Plug this scroller into any website.",
+  "main": "scrolls.js",
+  "author": {
+    "name": "Mark O Grady"
+  },
+  "version": "0.1.0",
+  "keywords": [
+    "scroller",
+    "page scroller",
+    "scrolls"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markogrady1/scrollsjs.git"
+  },
+  "license": "MIT"
+}
