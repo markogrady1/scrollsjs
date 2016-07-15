@@ -2,6 +2,7 @@
 
 var scroller = {
 
+
 	config: {
 		hoverColor: "#DB7661",
 		bgColor: "#1f2b31",
