@@ -1,7 +1,6 @@
 'use strict';
 
 var scroller = {
-
 	config: {
 		hoverColor: "#DB7661",
 		bgColor: "#1f2b31",
@@ -30,9 +29,7 @@ var scroller = {
 			hoverCol = scroller.config.hoverColor;
 			op = scroller.config.opacity;
 		}
-
 		$(anchor).append(spn);
-
 		$("body").prepend(anchor);
 		$(anchor).prepend("<a name='top'></a>");
 		$(scrollTopButton).css({
